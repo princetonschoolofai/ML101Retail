@@ -5,3 +5,6 @@ first class' notebook: https://colab.research.google.com/drive/1VIIxvM82geIRcPo9
 first class youtube video: https://www.youtube.com/watch?v=M3NRFkR5djo
 
 Second Class notebook: https://chttps://colab.research.google.com/drive/1IzUcaXevV7qZ-96upaLPVIb-dw0mlhKzolab.research.google.com/drive/1IzUcaXevV7qZ-96upaLPVIb-dw0mlhKz
+
+
+Youtube Link for Class 2: https://studio.youtube.com/channel/UCqk1Nj560aNjhCzZrmQMVQA/livestreaming/dashboard?v=ZDoprHAmJCY
